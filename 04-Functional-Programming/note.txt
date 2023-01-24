@@ -1,0 +1,4 @@
+# Still More To Go!
+
+The topic of Functional Programming will still continue to come up in later on sections
+and we will continue to expand on this paradigm.
