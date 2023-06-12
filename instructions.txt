@@ -1,0 +1,4 @@
+# Instructions for WSL
+
+- https://cloudbytes.dev/snippets/run-selenium-and-chrome-on-wsl2
+- https://stackoverflow.com/questions/51865300/python-selenium-keep-browser-open
